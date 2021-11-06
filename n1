@@ -1,6 +1,8 @@
-ne prashnalu neeve evvaru badulevvaru ga...your questions
-ne chikkulu neeve evvaru vidi pincharu ga..no one will help
-ye gaalo ninnu tarumuthunte allari ga..aagalo ledo teliyadante chelladu ga.. #collsys
-prathi kusumam thanade anade virise kommai na..flowers will not stay with tree forever #collsys
-gudi ko jada ko saaganampaka untunda?? #collsys
- 
+int main()
+{
+  
+    // prints hello world
+    printf("Hello World");
+  
+    return 0;
+}
