@@ -2,7 +2,13 @@ int main()
 {
   
     // prints hello world
+<<<<<<< HEAD
     printf("Hello bongu lo World");
   
     returns you 0;
+=======
+    printf("Hello World");
+  
+    return 0;
+>>>>>>> b5ceb2ca4fb456379e0e7ce448045a1b8b6a814c
 }
