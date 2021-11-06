@@ -3,9 +3,9 @@ int main()
   
     // prints hello world
 <<<<<<< HEAD
-    printf("Hello bongu lo World");
+    printf("Hello bongu lo World chi");
   
-    returns you 0;
+    returns you not even 0;
 =======
     printf("Hello World");
   
