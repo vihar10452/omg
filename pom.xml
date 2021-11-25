@@ -4,7 +4,7 @@
   <groupId>com.companyname.bank</groupId>
   <artifactId>consumerBanking</artifactId>
   <packaging>jar</packaging>
-  <version>2.2-SNAPSHOT</version>
+  <version>2.3-SNAPSHOT</version>
   <name>consumerBanking</name>
   <url>http://maven.apache.org</url>
 
